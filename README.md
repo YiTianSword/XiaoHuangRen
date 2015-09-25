@@ -1,8 +1,2 @@
-# xiao'zu'xin'xi小组信息
-##zhao'min赵敏
-yin'lian尹联
-jiang'wanyu姜婉钰
-zhou'en'pei周恩培
-lu陆jing陆劲zhu陆劲竹
-
-
+#小组信息
+##赵敏 尹联 姜婉钰 陆劲竹 周恩培
